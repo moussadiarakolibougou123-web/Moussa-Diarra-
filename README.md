@@ -50,14 +50,15 @@ Programme de résilience socio-économique	Accompagnement des ménages vulnérab
 
 📂 Mon CV et portfolio
 
-🧾 Curriculum Vitae complet (PDF) → Télécharger mon CV
+🧾 Curriculum Vitae complet (PDF) → Télécharger mon CV sur 
+LinkedIn :https://www.linkedin.com/in/moussa-diarra-909744305
 
 🌐 Portfolio digital → https://moussadiarakolibougou123-web.github.io/Moussa-Diarra-/Voir mes réalisations
 
-💬 LinkedIn professionnel → linkedin.com/in/moussa-diarra
+💬 LinkedIn professionnel → linkedin:https://www.linkedin.com/in/moussa-diarra-909744305
 
 🧭 Email de contact → moussa.diarra@example.com (à personnaliser)
-
+E-mail :moussadiarakolibougou123@gmail.com
 
 
 ---
