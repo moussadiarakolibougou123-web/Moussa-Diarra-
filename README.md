@@ -41,6 +41,7 @@ Programme de résilience socio-économique	Accompagnement des ménages vulnérab
 
 
 > 💡 Tu peux remplacer les “(#)” par les liens directs vers tes rapports PDF, visuels de projets ou publications LinkedIn.
+> canva : moussadiarrakolibougou6@gmail.com
 
 
 
@@ -51,7 +52,7 @@ Programme de résilience socio-économique	Accompagnement des ménages vulnérab
 
 🧾 Curriculum Vitae complet (PDF) → Télécharger mon CV
 
-🌐 Portfolio digital → Voir mes réalisations
+🌐 Portfolio digital → https://moussadiarakolibougou123-web.github.io/Moussa-Diarra-/Voir mes réalisations
 
 💬 LinkedIn professionnel → linkedin.com/in/moussa-diarra
 
